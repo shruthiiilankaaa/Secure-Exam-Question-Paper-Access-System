@@ -1,0 +1,46 @@
+[
+  {
+    "id": "USER_ADMIN_01",
+    "name": "Prof. Robert Vance (Admin)",
+    "email": "admin@exam.edu",
+    "passwordHash": "$2b$10$tS10FlCT9tF7UrV/whPjdOJxGHeyyjciQ2SitAirIvjpOwKKXClLC",
+    "role": "admin",
+    "createdAt": "2026-09-25T06:28:34.478Z"
+  },
+  {
+    "id": "USER_SETTER_01",
+    "name": "Dr. Alan Turing (Exam Setter)",
+    "email": "setter@exam.edu",
+    "passwordHash": "$2b$10$tS10FlCT9tF7UrV/whPjdOt2Oatlphais2JL22NTF.iOemNnbl1YC",
+    "role": "setter",
+    "department": "Computer Science & Engineering",
+    "createdAt": "2026-09-25T06:28:34.669Z"
+  },
+  {
+    "id": "USER_APPROVER_01",
+    "name": "Prof. Margaret Hamilton (HOD)",
+    "email": "hod@exam.edu",
+    "passwordHash": "$2b$10$tS10FlCT9tF7UrV/whPjdO2UXBIX59RkNxOrAIKEn.vOBuEPgFBLG",
+    "role": "approver",
+    "designation": "Head of Department",
+    "createdAt": "2026-09-25T06:28:34.853Z"
+  },
+  {
+    "id": "USER_APPROVER_02",
+    "name": "Dr. Claude Shannon (Exam Controller)",
+    "email": "controller@exam.edu",
+    "passwordHash": "$2b$10$tS10FlCT9tF7UrV/whPjdO2UXBIX59RkNxOrAIKEn.vOBuEPgFBLG",
+    "role": "approver",
+    "designation": "Controller of Examinations",
+    "createdAt": "2026-09-25T06:28:35.035Z"
+  },
+  {
+    "id": "USER_INVIGILATOR_01",
+    "name": "Sarah Connor (Senior Invigilator)",
+    "email": "invigilator@exam.edu",
+    "passwordHash": "$2b$10$tS10FlCT9tF7UrV/whPjdO80v8.CAeUdiQkZkYQ1CfzF0Pd8Rpl3i",
+    "role": "invigilator",
+    "hallAssigned": "Hall A - Room 302",
+    "createdAt": "2026-09-25T06:28:35.221Z"
+  }
+]
